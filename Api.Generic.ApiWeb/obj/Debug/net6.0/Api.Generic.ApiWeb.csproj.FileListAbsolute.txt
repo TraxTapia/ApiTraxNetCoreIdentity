@@ -1,0 +1,12 @@
+C:\Users\ivan.tapia\source\Ivan\Api.ApiTrax.ApiWeb\Api.Generic.ApiWeb\bin\Debug\net6.0\Api.Generic.ApiWeb.deps.json
+C:\Users\ivan.tapia\source\Ivan\Api.ApiTrax.ApiWeb\Api.Generic.ApiWeb\bin\Debug\net6.0\Api.Generic.ApiWeb.dll
+C:\Users\ivan.tapia\source\Ivan\Api.ApiTrax.ApiWeb\Api.Generic.ApiWeb\bin\Debug\net6.0\ref\Api.Generic.ApiWeb.dll
+C:\Users\ivan.tapia\source\Ivan\Api.ApiTrax.ApiWeb\Api.Generic.ApiWeb\bin\Debug\net6.0\Api.Generic.ApiWeb.pdb
+C:\Users\ivan.tapia\source\Ivan\Api.ApiTrax.ApiWeb\Api.Generic.ApiWeb\obj\Debug\net6.0\Api.Generic.ApiWeb.csproj.AssemblyReference.cache
+C:\Users\ivan.tapia\source\Ivan\Api.ApiTrax.ApiWeb\Api.Generic.ApiWeb\obj\Debug\net6.0\Api.Generic.ApiWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan.tapia\source\Ivan\Api.ApiTrax.ApiWeb\Api.Generic.ApiWeb\obj\Debug\net6.0\Api.Generic.ApiWeb.AssemblyInfoInputs.cache
+C:\Users\ivan.tapia\source\Ivan\Api.ApiTrax.ApiWeb\Api.Generic.ApiWeb\obj\Debug\net6.0\Api.Generic.ApiWeb.AssemblyInfo.cs
+C:\Users\ivan.tapia\source\Ivan\Api.ApiTrax.ApiWeb\Api.Generic.ApiWeb\obj\Debug\net6.0\Api.Generic.ApiWeb.csproj.CoreCompileInputs.cache
+C:\Users\ivan.tapia\source\Ivan\Api.ApiTrax.ApiWeb\Api.Generic.ApiWeb\obj\Debug\net6.0\Api.Generic.ApiWeb.dll
+C:\Users\ivan.tapia\source\Ivan\Api.ApiTrax.ApiWeb\Api.Generic.ApiWeb\obj\Debug\net6.0\ref\Api.Generic.ApiWeb.dll
+C:\Users\ivan.tapia\source\Ivan\Api.ApiTrax.ApiWeb\Api.Generic.ApiWeb\obj\Debug\net6.0\Api.Generic.ApiWeb.pdb
