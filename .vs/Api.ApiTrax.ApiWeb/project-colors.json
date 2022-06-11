@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fc26d962-aa69-4aaa-88e1-b3b4cef6160d": {
+      "ProjectGuid": "fc26d962-aa69-4aaa-88e1-b3b4cef6160d",
+      "DisplayName": "Api.ApiTrax.ApiWeb",
+      "ColorIndex": 0
+    },
+    "8f30ae5b-88dd-4554-a43b-9f9d4ecf4a0e": {
+      "ProjectGuid": "8f30ae5b-88dd-4554-a43b-9f9d4ecf4a0e",
+      "DisplayName": "Api.Generic.ApiWeb",
+      "ColorIndex": 1
+    },
+    "147a07b0-dff5-400b-b8cd-195baff33a54": {
+      "ProjectGuid": "147a07b0-dff5-400b-b8cd-195baff33a54",
+      "DisplayName": "Api.Repository.ApiWeb",
+      "ColorIndex": 2
+    },
+    "76983574-ecb1-4400-8cb0-9e2bc8dd98c9": {
+      "ProjectGuid": "76983574-ecb1-4400-8cb0-9e2bc8dd98c9",
+      "DisplayName": "Api.Models.ApiWeb",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
